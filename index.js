@@ -25,7 +25,7 @@ class Bird {
     this.sex = sex
   }
   
-  speak() {
-    return 
-  }
+    speak() {
+      return 
+    }
 }
